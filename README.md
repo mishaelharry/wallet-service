@@ -12,12 +12,16 @@ Request:
     "country":"NG"
 }
 
+
+
 Update BVN KYC:
 Url: http://localhost:9006/wallet-service/api/v1/users/update-bvn/1252
 Request:
 {
     "bvn":"12345678900"
 }
+
+
 
 Update Identity KYC:
 Url: http://localhost:9006/wallet-service/api/v1/users/update-identity/1252
